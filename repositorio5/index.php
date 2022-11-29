@@ -9,5 +9,6 @@
 <body>
     <h1> Soy el archivo de index</h1>
     <h1> Soy el archivo de index2</h1>
+    <h1> JUAN  </h1>
 </body>
 </html>
